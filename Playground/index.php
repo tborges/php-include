@@ -1,5 +1,5 @@
 <?php
-$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/Playground/includes/";
+$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/Playground/includes/"; ceta
 ?>
 
 <?php require($INC_DIR. "header.php"); ?>
