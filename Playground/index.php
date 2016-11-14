@@ -1,3 +1,7 @@
+<?php
+$INC_DIR = $_SERVER["DOCUMENT_ROOT"]. "/Playground/includes/";
+?>
+
 <?php require($INC_DIR. "header.php"); ?>
 
 <!-- code all <body> tag the content here -->
